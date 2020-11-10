@@ -1,0 +1,265 @@
+* {
+  box-sizing: border-box;
+  margin: 0%;
+  padding: 0%;
+  background-color: none;
+}
+.container {
+  height: 500vh;
+}
+li,
+a,
+button {
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  color: grey;
+  text-decoration: none;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px 10%;
+}
+h1 {
+  position: absolute;
+  left: 700px;
+}
+.parent2 {
+  color: aqua;
+  position: absolute;
+  left: 400px;
+}
+.paragraph1 {
+  position: absolute;
+  left: 200px;
+}
+.paragraph2 {
+  position: absolute;
+  left: 700px;
+}
+
+.box1 {
+  height: 350px;
+  width: 400px;
+  background: aqua;
+  position: absolute;
+  left: 220px;
+  top: 400px;
+  border-radius: 10%;
+  text-align: center;
+}
+.box2 {
+  height: 350px;
+  width: 400px;
+  background: skyblue;
+  position: absolute;
+  left: 750px;
+  top: 400px;
+  border-radius: 10%;
+  text-align: center;
+}
+.img1 {
+  height: 200px;
+  width: none;
+  position: absolute;
+  top: 170px;
+  left: 80px;
+}
+.img2 {
+  height: 200px;
+  width: none;
+  position: absolute;
+  top: 170px;
+  left: 110px;
+}
+.info {
+  position: absolute;
+  top: 800px;
+  left: 240px;
+  color: aqua;
+}
+.info2 {
+  position: absolute;
+  top: 800px;
+  left: 650px;
+  line-height: 30px;
+  word-spacing: 1.5cm;
+  font-size: 20px;
+}
+article {
+  position: absolute;
+  top: 1100px;
+  left: 200px;
+  font-size: 40px;
+  color: rgb(0, 255, 170);
+}
+.paragraph3 {
+  position: absolute;
+  top: 1200px;
+  left: 200px;
+}
+.box3 {
+  background: aqua;
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 700px;
+  top: 1100px;
+  border-radius: 10px;
+}
+.box4 {
+  background: rgb(0, 174, 255);
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 1000px;
+  top: 990px;
+  border-radius: 10px;
+}
+.box5 {
+  background: rgb(83, 58, 58);
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 1000px;
+  top: 1300px;
+  border-radius: 10px;
+}
+.box6 {
+  background: rgb(74, 95, 26);
+  height: 200px;
+  width: 200px;
+  position: absolute;
+  left: 700px;
+  top: 1400px;
+  border-radius: 10px;
+}
+.title1 {
+  position: absolute;
+  top: 1100px;
+  text-align: center;
+}
+.title2 {
+  position: absolute;
+  top: 1000px;
+  left: 1000px;
+}
+.title3 {
+  position: absolute;
+  top: 1400px;
+  left: 700px;
+}
+.title4 {
+  position: absolute;
+  top: 1300px;
+  left: 1000px;
+}
+.descr1 {
+  position: absolute;
+  top: 1200px;
+  left: 700px;
+}
+.descr2 {
+  position: absolute;
+  top: 1100px;
+  left: 1000px;
+}
+.descr3 {
+  position: absolute;
+  top: 1500px;
+  left: 700px;
+}
+.descr4 {
+  position: absolute;
+  top: 1400px;
+  left: 1000px;
+}
+.title5 {
+  position: absolute;
+  top: 1800px;
+  left: 500px;
+  color: rgb(0, 255, 170);
+}
+.paragraph4 {
+  position: absolute;
+  top: 1900px;
+  left: 500px;
+}
+.img3 {
+  position: absolute;
+  top: 2000px;
+  left: 150px;
+}
+.img4 {
+  position: absolute;
+  top: 2000px;
+  left: 500px;
+}
+.img5 {
+  position: absolute;
+  top: 2000px;
+  left: 850px;
+}
+.img6 {
+  position: absolute;
+  top: 2350px;
+  left: 150px;
+}
+.img7 {
+  position: absolute;
+  top: 2350px;
+  left: 500px;
+}
+.img8 {
+  position: absolute;
+  top: 2350px;
+  left: 850px;
+}
+.img9 {
+  position: absolute;
+  top: 2700px;
+  left: 150px;
+}
+.name1 {
+  position: absolute;
+  top: 2000px;
+  left: 150px;
+}
+.name2 {
+  position: absolute;
+  top: 2000px;
+  left: 500px;
+}
+.name3 {
+  position: absolute;
+  top: 2000px;
+  left: 850px;
+}
+.name4 {
+  position: absolute;
+  top: 2350px;
+  left: 150px;
+}
+.name5 {
+  position: absolute;
+  top: 2350px;
+  left: 500px;
+}
+.name6 {
+  position: absolute;
+  top: 2350px;
+  left: 850px;
+}
+.name7 {
+  position: absolute;
+  top: 2700px;
+  left: 150px;
+}
+#footer {
+  background-color: rgb(213, 219, 219);
+  position: relative;
+  height: 100px;
+  text-align: center;
+}
